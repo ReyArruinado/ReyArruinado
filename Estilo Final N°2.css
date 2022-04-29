@@ -1,0 +1,48 @@
+html, head {
+    background-image:url(https://wallpapercave.com/wp/wp4386591.jpg);
+    background-size: 70rem;
+}
+body {
+    margin-left: 30%; margin-right: 30%;
+    border: 1px double black;
+    padding: 20px 20px 20px 20px;
+}
+#alineamiento {
+    display: flex;
+}
+#encabezado {
+    margin-top: 2%; margin-bottom: 2%; margin-left: 2%; margin-right: 2%;
+    padding: 5px 5px 5px 5px;
+    display: flex;
+    justify-content: center;
+    opacity: 1;
+    
+}
+#subtitulo1 {
+    margin-top: 2%; margin-bottom: 2%; margin-left: 2%; margin-right: 2%;
+    padding: 5px 5px 5px 5px;
+    width: 55%;
+    display: flex;
+    justify-content: center;
+    opacity: 1;
+}
+#subtitulo2 {
+    margin-top: 2%; margin-bottom: 2%; margin-left: 2%; margin-right: 2%;
+    padding: 5px 5px 5px 5px;
+    width: 55%;
+    display: flex;
+    justify-content: center;
+    opacity: 1;
+}
+#parrafo {
+    margin-top: 2%; margin-bottom: 2%; margin-left: 2%; margin-right: 2%;
+    border: 1px double black;
+    padding: 5px 5px 5px 5px;
+    background-color: rgb(229, 230, 220)
+}
+#tabla {
+    margin-top: 2%; margin-bottom: 2%; margin-left: 2%; margin-right: 2%;
+    border: 1px double black;
+    padding: 5px 5px 5px 5px;
+    background-color: rgb(229, 230, 220)
+}
